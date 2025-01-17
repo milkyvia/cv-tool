@@ -1,0 +1,8 @@
+# .env
+
+# Define window size
+WINDOW_SIZE = [1336, 768]
+
+# Define valid file extensions for images and videos
+IMAGE_EXT="*.jpg *.jpeg *.webp *.bmp *.png"
+VIDEO_EXT="*.mp4 *.avi *.mov *.mkv *.wmv"
